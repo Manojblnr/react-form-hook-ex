@@ -1,0 +1,17 @@
+.form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #3C5B6F;
+    width: 30%;
+    height: 500px;
+  }
+h3{
+    color: #000;
+    opacity: 0.8;
+}
+form{
+    display: flex;
+    flex-direction: column;
+}
